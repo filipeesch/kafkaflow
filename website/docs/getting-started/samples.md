@@ -50,6 +50,12 @@ You can find the code here: [/samples/KafkaFlow.Sample.PauseConsumerOnError](htt
 
 ## Consumer Throttling
 
-This is a sample that shows how to throttle a consumer based on others consumers lag
+This is a sample that shows how to throttle a consumer based on others consumers lag.
 
 You can find the code here: [/samples/KafkaFlow.Sample.ConsumerThrottling](https://github.com/Farfetch/kafkaflow/tree/master/samples/KafkaFlow.Sample.ConsumerThrottling)
+
+## Open Telemetry
+
+This is a sample that shows how to enable OpenTelemetry instrumentation when using KafkaFlow.
+
+You can find the code here: [/samples/KafkaFlow.Sample.OpenTelemetry](https://github.com/Farfetch/kafkaflow/tree/master/samples/KafkaFlow.Sample.OpenTelemetry)
